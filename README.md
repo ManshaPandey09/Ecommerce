@@ -2,9 +2,8 @@
 
 A full-stack mini e-commerce web app where users can browse products, manage their cart, sign in, post products, and update profiles. The frontend is built with HTML, CSS, and JavaScript, while the backend uses Java Servlets and MySQL. Product data is dynamically loaded via Google Sheets using SheetDB, and Firebase handles user authentication.
 
+https://ecommerceminisite.netlify.app/
 ---
-
-##  Features
 
 ###  Frontend
 -  Dynamic Product Listing (via Google Sheets + SheetDB)
